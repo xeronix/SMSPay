@@ -2,8 +2,8 @@
 SMS Based payment system.
 
 Server:
-  Twilio messaging API
-  Node Server using Express API
+  Twilio messaging API,
+  Node Server using Express API,
   MongoDB
 
 Client:
